@@ -1,3 +1,8 @@
-# Simple_calculator_application
+# Simple Calculator Application
 
-This is a simple scientific calculator application that is implemented by using Flutter and dart.
+## Introduction
+The Simple Calculator Application offers users a straightforward yet powerful scientific calculator tool by providing essential mathematical operations in a user-friendly interface.
+
+### Technologies Used
+- Flutter
+- Dart
